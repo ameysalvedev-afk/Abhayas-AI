@@ -1,0 +1,724 @@
+{
+  "questions": [
+    {
+      "id": "phy_001",
+      "subject": "Physics",
+      "chapter": "Electrostatics",
+      "topic": "Motion of charged particle",
+      "difficulty": "medium",
+      "question": "An electron enters symmetrically between two parallel and oppositely charged plates of length 10 cm. The horizontal velocity is 10^6 m/s and electric field is 9.1 V/cm. Find vertical component of velocity.",
+      "options": {
+        "A": "0",
+        "B": "1 \u00d7 10^6 m/s",
+        "C": "16 \u00d7 10^6 m/s",
+        "D": "16 \u00d7 10^4 m/s"
+      },
+      "correct_answer": "C",
+      "explanation": "Using motion under uniform electric field.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "phy_002",
+      "subject": "Physics",
+      "chapter": "Current Electricity",
+      "topic": "Cells in Parallel",
+      "difficulty": "easy",
+      "question": "Given two statements: Statement-I: Equivalent emf of two non-ideal batteries in parallel is smaller than either emf. Statement-II: Equivalent internal resistance is smaller than either resistance. Choose correct option.",
+      "options": {
+        "A": "Both false",
+        "B": "I false, II true",
+        "C": "Both true",
+        "D": "I true, II false"
+      },
+      "correct_answer": "B",
+      "explanation": "Internal resistance reduces, emf not necessarily smaller.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "phy_003",
+      "subject": "Physics",
+      "chapter": "Thermodynamics",
+      "topic": "Heat Transfer",
+      "difficulty": "medium",
+      "question": "An amount of ice at -10\u00b0C is converted to steam at 110\u00b0C. Calculate total heat required.",
+      "options": {
+        "A": "3043 J",
+        "B": "3024 J",
+        "C": "3003 J",
+        "D": "3022 J"
+      },
+      "correct_answer": "A",
+      "explanation": "Includes heating, phase changes and specific heat calculations.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "phy_004",
+      "subject": "Physics",
+      "chapter": "Modern Physics",
+      "topic": "Bohr Model",
+      "difficulty": "easy",
+      "question": "Ratio of de Broglie wavelength of electron in third excited state to ground state is:",
+      "options": {
+        "A": "3",
+        "B": "16",
+        "C": "9",
+        "D": "4"
+      },
+      "correct_answer": "D",
+      "explanation": "\u03bb \u221d n \u2192 ratio = 4.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "phy_005",
+      "subject": "Physics",
+      "chapter": "Optics",
+      "topic": "Lens",
+      "difficulty": "medium",
+      "question": "A convex lens with one surface silvered forms image on the object itself. Find object distance.",
+      "options": {
+        "A": "R/\u03bc",
+        "B": "R/(2\u03bc\u22123)",
+        "C": "\u03bcR",
+        "D": "R/(2\u03bc\u22121)"
+      },
+      "correct_answer": "D",
+      "explanation": "Lens + mirror condition applied.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "phy_006",
+      "subject": "Physics",
+      "chapter": "Waves",
+      "topic": "Organ Pipes",
+      "difficulty": "medium",
+      "question": "Closed and open pipes filled with gases have same frequency. If density ratio is 1:16 and closed pipe length is 10 cm, find open pipe length.",
+      "options": {
+        "A": "15/7 cm",
+        "B": "20/7 cm",
+        "C": "15/9 cm",
+        "D": "20/9 cm"
+      },
+      "correct_answer": "D",
+      "explanation": "Using frequency relation and v \u221d \u221a(1/\u03c1).",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "phy_007",
+      "subject": "Physics",
+      "chapter": "Magnetism",
+      "topic": "Dimensions",
+      "difficulty": "easy",
+      "question": "If B is magnetic field and \u03bc\u2080 is permeability, find dimensions of (B/\u03bc\u2080).",
+      "options": {
+        "A": "ML\u00b2T\u207b\u00b2A\u207b\u00b9",
+        "B": "MT\u207b\u00b2A\u207b\u00b9",
+        "C": "L\u207b\u00b9A",
+        "D": "LT\u207b\u00b2A\u207b\u00b9"
+      },
+      "correct_answer": "C",
+      "explanation": "Dimensional formula derived from magnetic relations.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "phy_008",
+      "subject": "Physics",
+      "chapter": "Units & Measurements",
+      "topic": "Vernier Calipers",
+      "difficulty": "easy",
+      "question": "Statement-I: Vernier division is smaller than main scale division. Statement-II: Vernier constant is product of main scale and number of vernier divisions. Choose correct option.",
+      "options": {
+        "A": "I true, II false",
+        "B": "I false, II true",
+        "C": "Both false",
+        "D": "Both true"
+      },
+      "correct_answer": "C",
+      "explanation": "Second statement is incorrect formula.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "phy_009",
+      "subject": "Physics",
+      "chapter": "Modern Physics",
+      "topic": "Photoelectric Effect",
+      "difficulty": "easy",
+      "question": "Work functions of Cs and Li are 1.9 eV and 2.5 eV respectively. Light of wavelength 550 nm is incident. For which metal will photoelectric effect occur?",
+      "options": {
+        "A": "Both",
+        "B": "None",
+        "C": "Cs only",
+        "D": "Li only"
+      },
+      "correct_answer": "C",
+      "explanation": "Given proper data \u2192 only Cs emits electrons.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "phy_010",
+      "subject": "Physics",
+      "chapter": "Thermal Physics",
+      "topic": "Radiation",
+      "difficulty": "easy",
+      "question": "Two spheres at temperatures 800K and 400K radiate energy. If smaller emits E, energy emitted by larger is:",
+      "options": {
+        "A": "16E",
+        "B": "E",
+        "C": "64E",
+        "D": "256E"
+      },
+      "correct_answer": "B",
+      "explanation": "Using Stefan-Boltzmann law.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "chem_001",
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry",
+      "topic": "Geometrical Isomerism",
+      "difficulty": "easy",
+      "question": "Which of the following statements regarding geometrical isomerism are incorrect? (A) Propene shows geometrical isomerism. (B) Trans isomer has identical groups on opposite sides. (C) Cis-but-2-ene has higher dipole moment than trans. (D) 2-methylbut-2-ene shows geometrical isomerism. (E) Trans-isomer has lower melting point than cis isomer.",
+      "options": {
+        "A": "(A), (D) and (E) only",
+        "B": "(A), (D) and (E)",
+        "C": "(B) and (C)",
+        "D": "(C), (D) and (E)"
+      },
+      "correct_answer": "B",
+      "explanation": "Propene and 2-methylbut-2-ene do not show geometrical isomerism.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "chem_002",
+      "subject": "Chemistry",
+      "chapter": "Thermodynamics",
+      "topic": "First Law",
+      "difficulty": "easy",
+      "question": "A liquid is kept in a thermally insulated closed vessel and stirred mechanically. Which of the following is correct?",
+      "options": {
+        "A": "\u0394U < 0, q = 0, w > 0",
+        "B": "\u0394U = 0, q = 0, w = 0",
+        "C": "\u0394U > 0, q = 0, w > 0",
+        "D": "\u0394U = 0, q < 0, w > 0"
+      },
+      "correct_answer": "C",
+      "explanation": "Work done increases internal energy, no heat exchange.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "chem_003",
+      "subject": "Chemistry",
+      "chapter": "Periodic Table",
+      "topic": "Electronegativity",
+      "difficulty": "easy",
+      "question": "Which of the following electronegativity orders is incorrect?",
+      "options": {
+        "A": "Mg < Be < B < N",
+        "B": "S < Cl < O < F",
+        "C": "Al < Si < C < N",
+        "D": "Al < Mg < B < N"
+      },
+      "correct_answer": "D",
+      "explanation": "Correct order is Mg < Al, not Al < Mg.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "chem_004",
+      "subject": "Chemistry",
+      "chapter": "Electrochemistry",
+      "topic": "Electrolysis",
+      "difficulty": "medium",
+      "question": "Which electrolyte can be used to obtain H2SO4 by electrolysis?",
+      "options": {
+        "A": "Dilute Na2SO4",
+        "B": "Acidified dilute Na2SO4",
+        "C": "Dilute H2SO4",
+        "D": "Concentrated H2SO4"
+      },
+      "correct_answer": "D",
+      "explanation": "Only concentrated H2SO4 gives desired result.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "chem_005",
+      "subject": "Chemistry",
+      "chapter": "Biomolecules",
+      "topic": "Vitamins",
+      "difficulty": "easy",
+      "question": "Which of the following acids is a vitamin?",
+      "options": {
+        "A": "Adipic acid",
+        "B": "Ascorbic acid",
+        "C": "Saccharic acid",
+        "D": "Aspartic acid"
+      },
+      "correct_answer": "B",
+      "explanation": "Ascorbic acid is Vitamin C.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "chem_006",
+      "subject": "Chemistry",
+      "chapter": "Chemical Kinetics",
+      "topic": "Rate Constant",
+      "difficulty": "medium",
+      "question": "Which statement is NOT true for radioactive decay?",
+      "options": {
+        "A": "Decay constant increases with temperature",
+        "B": "Amount after three half-lives is 1/8",
+        "C": "Decay constant is independent of temperature",
+        "D": "Half-life depends on decay constant"
+      },
+      "correct_answer": "A",
+      "explanation": "Decay constant does not depend on temperature.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "chem_007",
+      "subject": "Chemistry",
+      "chapter": "Equilibrium",
+      "topic": "Kp",
+      "difficulty": "medium",
+      "question": "A vessel at 1000 K contains CO2 at 0.5 atm. Some CO2 converts into CO and total pressure becomes 0.8 atm. Find Kp.",
+      "options": {
+        "A": "1.8 atm",
+        "B": "0.3 atm",
+        "C": "3 atm",
+        "D": "0.18 atm"
+      },
+      "correct_answer": "A",
+      "explanation": "Use equilibrium relation and partial pressures.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "chem_008",
+      "subject": "Chemistry",
+      "chapter": "Electrochemistry",
+      "topic": "Faraday Laws",
+      "difficulty": "medium",
+      "question": "AlCl3 is electrolysed for 30 minutes using 2 A current. Find mass of aluminium deposited.",
+      "options": {
+        "A": "1.660 g",
+        "B": "0.336 g",
+        "C": "0.441 g",
+        "D": "1.007 g"
+      },
+      "correct_answer": "B",
+      "explanation": "Use Faraday law: m = (ItM)/(nF).",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "chem_009",
+      "subject": "Chemistry",
+      "chapter": "Solutions",
+      "topic": "Boiling Point",
+      "difficulty": "easy",
+      "question": "Arrange the following solutions in increasing boiling point: (i) 10^-4 M NaCl, (ii) 10^-4 M Urea, (iii) 10^-3 M NaCl, (iv) 10^-2 M NaCl.",
+      "options": {
+        "A": "(i) < (ii) < (iii) < (iv)",
+        "B": "(iv) < (iii) < (i) < (ii)",
+        "C": "(ii) < (i) < (iii) < (iv)",
+        "D": "(ii) < (i) < (iii) < (iv)"
+      },
+      "correct_answer": "D",
+      "explanation": "Boiling point \u221d i \u00d7 concentration.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "chem_010",
+      "subject": "Chemistry",
+      "chapter": "Coordination Chemistry",
+      "topic": "Magnetic Behaviour",
+      "difficulty": "medium",
+      "question": "From magnetic behaviour of [NiCl4]2\u2212 (paramagnetic) and [Ni(CO)4] (diamagnetic), choose correct geometry and oxidation state.",
+      "options": {
+        "A": "Both tetrahedral",
+        "B": "Square planar and tetrahedral",
+        "C": "Both tetrahedral with Ni(II) and Ni(0)",
+        "D": "Square planar both"
+      },
+      "correct_answer": "C",
+      "explanation": "NiCl4 is tetrahedral (paramagnetic), Ni(CO)4 is tetrahedral (diamagnetic).",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "math_001",
+      "subject": "Mathematics",
+      "chapter": "Sequences and Series",
+      "topic": "Geometric Progression",
+      "difficulty": "medium",
+      "question": "Let a1, a2, ... be a geometric progression of increasing positive terms. If a1 \u00d7 a5 = 28 and a2 + a4 = 29, find a6.",
+      "options": {
+        "A": "628",
+        "B": "812",
+        "C": "526",
+        "D": "784"
+      },
+      "correct_answer": "D",
+      "explanation": "Use GP relations: a_n = ar^(n\u22121) and given conditions.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "math_002",
+      "subject": "Mathematics",
+      "chapter": "Differential Equations",
+      "topic": "First Order DE",
+      "difficulty": "medium",
+      "question": "Solve the differential equation: 2dx + (x \u2212 1/y)dy = 0 with condition x(1) = 1. Find x(1/2).",
+      "options": {
+        "A": "1/2 + e",
+        "B": "3 + e",
+        "C": "3 \u2212 e",
+        "D": "2 + e"
+      },
+      "correct_answer": "C",
+      "explanation": "Solve DE and apply initial condition.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "math_003",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "topic": "Conditional Probability",
+      "difficulty": "easy",
+      "question": "Two balls are drawn from a bag containing 4 white and 6 black balls. Find the probability that the first ball is black given that the second ball is black.",
+      "options": {
+        "A": "4/14",
+        "B": "11/14",
+        "C": "13/11",
+        "D": "11/13"
+      },
+      "correct_answer": "B",
+      "explanation": "Use conditional probability formula.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "math_004",
+      "subject": "Mathematics",
+      "chapter": "Logarithms",
+      "topic": "Exponential Equation",
+      "difficulty": "easy",
+      "question": "Solve for x > 0: e^(5 log_e x^2 + 3) = x^8.",
+      "options": {
+        "A": "e^(8/5)",
+        "B": "e^(6/5)",
+        "C": "e^2",
+        "D": "e"
+      },
+      "correct_answer": "A",
+      "explanation": "Simplify exponent and equate powers.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "math_005",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Centroid",
+      "difficulty": "medium",
+      "question": "Triangle PQR is the image of triangle with vertices (1,3), (3,1), (2,4). If centroid is (\u03b1, \u03b2), find 15(\u03b1 \u2212 \u03b2).",
+      "options": {
+        "A": "19",
+        "B": "24",
+        "C": "21",
+        "D": "22"
+      },
+      "correct_answer": "D",
+      "explanation": "Use centroid formula.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "math_006",
+      "subject": "Mathematics",
+      "chapter": "Definite Integration",
+      "topic": "Properties of Integrals",
+      "difficulty": "hard",
+      "question": "If f(x) = 7tan^8x + 7tan^6x \u2212 3tan^4x \u2212 3tan^2x, evaluate 7I1 + 12I2 where I1 and I2 are definite integrals.",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "2\u03c0",
+        "D": "\u03c0"
+      },
+      "correct_answer": "B",
+      "explanation": "Use symmetry and integral properties.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "math_007",
+      "subject": "Mathematics",
+      "chapter": "3D Geometry",
+      "topic": "Shortest Distance",
+      "difficulty": "medium",
+      "question": "Given two skew lines L1 and L2, identify the point that lies on the line of shortest distance between them.",
+      "options": {
+        "A": "(14/3, \u22123, 22/3)",
+        "B": "(-5/3, \u22127, 1)",
+        "C": "(2, 3, 1/3)",
+        "D": "(8/3, \u22121, 1/3)"
+      },
+      "correct_answer": "A",
+      "explanation": "Use shortest distance between skew lines.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "math_008",
+      "subject": "Mathematics",
+      "chapter": "Functions",
+      "topic": "Functional Equation",
+      "difficulty": "hard",
+      "question": "If f(0)=1 and f(x+y)=f(x)f'(y)+f'(x)f(y), evaluate \u2211(n=1 to 100) log_e f(n).",
+      "options": {
+        "A": "2525",
+        "B": "5220",
+        "C": "2384",
+        "D": "2406"
+      },
+      "correct_answer": "A",
+      "explanation": "Recognize exponential-type function and simplify.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "math_009",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Inverse Trigonometric Functions",
+      "difficulty": "medium",
+      "question": "Find the sum of maximum and minimum values of (sec\u207b\u00b9x)\u00b2 + (cosec\u207b\u00b9x)\u00b2.",
+      "options": {
+        "A": "24\u03c0\u00b2",
+        "B": "22\u03c0\u00b2",
+        "C": "31\u03c0\u00b2",
+        "D": "18\u03c0\u00b2"
+      },
+      "correct_answer": "B",
+      "explanation": "Use domain of inverse trigonometric functions.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "math_010",
+      "subject": "Mathematics",
+      "chapter": "Permutation and Combination",
+      "topic": "Arrangements",
+      "difficulty": "easy",
+      "question": "Five letters are chosen and arranged alphabetically. Find number of ways such that the middle letter is M.",
+      "options": {
+        "A": "5148",
+        "B": "6084",
+        "C": "4356",
+        "D": "14950"
+      },
+      "correct_answer": "A",
+      "explanation": "Fix M and choose remaining letters.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "bio_001",
+      "subject": "Biology",
+      "chapter": "Cell Biology",
+      "topic": "Electron Transport Chain",
+      "difficulty": "easy",
+      "question": "The complex II of mitochondrial electron transport chain is also known as:",
+      "options": {
+        "A": "Cytochrome bc1",
+        "B": "Succinate dehydrogenase",
+        "C": "Cytochrome c oxidase",
+        "D": "NADH dehydrogenase"
+      },
+      "correct_answer": "B",
+      "explanation": "Complex II is succinate dehydrogenase.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "bio_002",
+      "subject": "Biology",
+      "chapter": "Biotechnology",
+      "topic": "PCR",
+      "difficulty": "easy",
+      "question": "Polymerase chain reaction (PCR) amplifies DNA following which expression?",
+      "options": {
+        "A": "N\u00b2",
+        "B": "2\u207f",
+        "C": "2n + 1",
+        "D": "2N\u00b2"
+      },
+      "correct_answer": "B",
+      "explanation": "DNA doubles every cycle \u2192 2\u207f.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "bio_003",
+      "subject": "Biology",
+      "chapter": "Reproductive Health",
+      "topic": "IVF",
+      "difficulty": "medium",
+      "question": "What are the potential drawbacks in adoption of IVF method? A. High fatality risk to mother B. Expensive instruments and reagents C. Husband/wife necessary for donors D. Less adoption of orphans E. Not available in India F. Possibility that embryo does not survive",
+      "options": {
+        "A": "B, D, F only",
+        "B": "A, C, D, F only",
+        "C": "A, B, C, D only",
+        "D": "A, B, C, E, F only"
+      },
+      "correct_answer": "A",
+      "explanation": "Main drawbacks include cost, ethics and embryo survival issues.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "bio_004",
+      "subject": "Biology",
+      "chapter": "Animal Physiology",
+      "topic": "Circulatory System",
+      "difficulty": "easy",
+      "question": "Which blood vessel carries deoxygenated blood from body to heart in frog?",
+      "options": {
+        "A": "Aorta",
+        "B": "Pulmonary artery",
+        "C": "Pulmonary vein",
+        "D": "Vena cava"
+      },
+      "correct_answer": "D",
+      "explanation": "Vena cava carries deoxygenated blood.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "bio_005",
+      "subject": "Biology",
+      "chapter": "Biology in Human Welfare",
+      "topic": "Reductionist Biology",
+      "difficulty": "easy",
+      "question": "Which statement refers to Reductionist Biology?",
+      "options": {
+        "A": "Physico-chemical approach",
+        "B": "Physiological approach",
+        "C": "Chemical approach only",
+        "D": "Behavioural approach"
+      },
+      "correct_answer": "A",
+      "explanation": "Reductionist biology focuses on physico-chemical basis.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "bio_006",
+      "subject": "Biology",
+      "chapter": "Molecular Basis of Inheritance",
+      "topic": "RNA World",
+      "difficulty": "medium",
+      "question": "Statement I: RNA is considered first genetic material and acts as catalyst. Statement II: DNA evolved later and is more stable. Choose correct option.",
+      "options": {
+        "A": "Both correct",
+        "B": "Both incorrect",
+        "C": "I correct, II incorrect",
+        "D": "I incorrect, II correct"
+      },
+      "correct_answer": "A",
+      "explanation": "RNA world hypothesis supports both statements.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "bio_007",
+      "subject": "Biology",
+      "chapter": "Ecology",
+      "topic": "Population Interaction",
+      "difficulty": "easy",
+      "question": "Epiphytes growing on mango tree is example of:",
+      "options": {
+        "A": "Commensalism",
+        "B": "Mutualism",
+        "C": "Predation",
+        "D": "Amensalism"
+      },
+      "correct_answer": "A",
+      "explanation": "Epiphytes benefit, host unaffected.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "bio_008",
+      "subject": "Biology",
+      "chapter": "Cell Biology",
+      "topic": "Ribosome",
+      "difficulty": "medium",
+      "question": "Which statements are correct? A. Eukaryotic ribosomes are 80S and prokaryotic are 70S B. Each ribosome has two subunits C. 80S = 60S + 40S and 70S = 50S + 30S",
+      "options": {
+        "A": "A, B, C true",
+        "B": "A, B true",
+        "C": "B, C true",
+        "D": "A, C true"
+      },
+      "correct_answer": "A",
+      "explanation": "All given statements are correct.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "bio_009",
+      "subject": "Biology",
+      "chapter": "Biodiversity",
+      "topic": "Conservation",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of ex-situ conservation?",
+      "options": {
+        "A": "National Park",
+        "B": "Wildlife Sanctuary",
+        "C": "Zoos and botanical gardens",
+        "D": "Protected areas"
+      },
+      "correct_answer": "C",
+      "explanation": "Ex-situ conservation occurs outside natural habitat.",
+      "marks": 4,
+      "negative_marks": 1
+    },
+    {
+      "id": "bio_010",
+      "subject": "Biology",
+      "chapter": "Ecosystem",
+      "topic": "Productivity",
+      "difficulty": "medium",
+      "question": "Statement I: Solar energy is primary energy source in ecosystem. Statement II: Net primary productivity is rate of organic matter production. Choose correct option.",
+      "options": {
+        "A": "Both correct",
+        "B": "Both incorrect",
+        "C": "I correct, II incorrect",
+        "D": "I incorrect, II correct"
+      },
+      "correct_answer": "C",
+      "explanation": "NPP is after respiration, not total production.",
+      "marks": 4,
+      "negative_marks": 1
+    }
+  ]
+}
